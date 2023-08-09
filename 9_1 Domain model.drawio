@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-08-09T03:49:53.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="udSDJK1KMos-d9JNcUdH" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1562" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nMokIZjZC6wRx67IndkM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-1" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-1" value="Гость (Guest)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-2" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="271" as="sourcePoint" />
+            <mxPoint x="294" y="491" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="491" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-2" value="Сотрудник отеля (Hotel Staff)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-3" target="nMokIZjZC6wRx67IndkM-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-3" target="nMokIZjZC6wRx67IndkM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-3" target="nMokIZjZC6wRx67IndkM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-3" value="Номер (Room)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-4" target="nMokIZjZC6wRx67IndkM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-4" value="Приоритизация задач / План работ (Priority / Plan)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="430" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-5" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-5" value="Типы номеров (Room Types)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="20" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-6" target="nMokIZjZC6wRx67IndkM-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-6" value="Платежная информация (Payment Information)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-7" target="nMokIZjZC6wRx67IndkM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-7" value="Правила бронирования (Reservation Rules)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.387;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-9" target="nMokIZjZC6wRx67IndkM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-9" value="устройства на тележках (trolley devices)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="620" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-10" value="Задачи (Housekeeping Tasks)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="294" y="430" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-11" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-11" value="Статус номеров&lt;br&gt;&amp;nbsp;(Room State)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="760" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-16" value="Уборка и обслуживание (Housekeeping)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-23" value="Интеграция с системой бронирования" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="160" width="80" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-24" value="Интеграция с платежной системой." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
