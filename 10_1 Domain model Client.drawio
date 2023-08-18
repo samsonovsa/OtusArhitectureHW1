@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" modified="2023-08-18T04:38:04.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="8HbKO-omDx5nmcj6TuxG" version="21.6.6" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oFa2VuMB2Tkz1WrGC8ZY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nMokIZjZC6wRx67IndkM-1" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-1" value="Гость (Guest)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="40" y="248" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-3" value="Номер (Room)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="290" y="248" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nMokIZjZC6wRx67IndkM-5" target="nMokIZjZC6wRx67IndkM-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-5" value="Типы номеров (Room Types)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="150" y="88" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nMokIZjZC6wRx67IndkM-11" target="nMokIZjZC6wRx67IndkM-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMokIZjZC6wRx67IndkM-11" value="Статус номеров&lt;br&gt;&amp;nbsp;(Room State)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="470" y="88" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oFa2VuMB2Tkz1WrGC8ZY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFa2VuMB2Tkz1WrGC8ZY-2" target="nMokIZjZC6wRx67IndkM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oFa2VuMB2Tkz1WrGC8ZY-2" value="Фотографии номеров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="268" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oFa2VuMB2Tkz1WrGC8ZY-4" value="Модель предметной области. Контекст клиента" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="18" width="380" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

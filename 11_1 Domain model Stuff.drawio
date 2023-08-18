@@ -1,34 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T04:41:58.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ii8FRtvIol52SQ4-pih-" version="21.6.6" type="device">
+<mxfile host="app.diagrams.net" modified="2023-08-18T04:44:46.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="cyYazfzPGSlIYz6mwcgj" version="21.6.6" type="device">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nMokIZjZC6wRx67IndkM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="nMokIZjZC6wRx67IndkM-1" target="nMokIZjZC6wRx67IndkM-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nMokIZjZC6wRx67IndkM-1" value="Гость (Guest)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nMokIZjZC6wRx67IndkM-2" target="nMokIZjZC6wRx67IndkM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="311" as="sourcePoint" />
-            <mxPoint x="294" y="531" as="targetPoint" />
+            <mxPoint x="100" y="329" as="sourcePoint" />
+            <mxPoint x="294" y="549" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="531" />
+              <mxPoint x="100" y="549" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-2" value="Сотрудник отеля (Hotel Staff)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="40" y="220" width="120" height="120" as="geometry" />
+          <mxGeometry x="40" y="238" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nMokIZjZC6wRx67IndkM-3" target="nMokIZjZC6wRx67IndkM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="470" />
+              <mxPoint x="350" y="488" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,64 +33,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-3" value="Номер (Room)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="290" y="220" width="120" height="120" as="geometry" />
+          <mxGeometry x="290" y="238" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nMokIZjZC6wRx67IndkM-4" target="nMokIZjZC6wRx67IndkM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-4" value="Приоритизация задач / План работ (Priority / Plan)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="460" y="470" width="120" height="120" as="geometry" />
+          <mxGeometry x="460" y="488" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nMokIZjZC6wRx67IndkM-5" target="nMokIZjZC6wRx67IndkM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-5" value="Типы номеров (Room Types)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="260" y="60" width="90" height="90" as="geometry" />
+          <mxGeometry x="260" y="78" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="nMokIZjZC6wRx67IndkM-6" target="nMokIZjZC6wRx67IndkM-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-6" value="Платежная информация (Payment Information)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="470" y="310" width="120" height="120" as="geometry" />
+          <mxGeometry x="470" y="328" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.015;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nMokIZjZC6wRx67IndkM-7" target="nMokIZjZC6wRx67IndkM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-7" value="Правила бронирования (Reservation Rules)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="470" y="170" width="120" height="120" as="geometry" />
+          <mxGeometry x="470" y="188" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.387;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nMokIZjZC6wRx67IndkM-9" target="nMokIZjZC6wRx67IndkM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-9" value="устройства на тележках (trolley devices)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="280" y="660" width="120" height="120" as="geometry" />
+          <mxGeometry x="280" y="678" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-10" value="Задачи (Housekeeping Tasks)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="294" y="470" width="120" height="120" as="geometry" />
+          <mxGeometry x="294" y="488" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nMokIZjZC6wRx67IndkM-11" target="nMokIZjZC6wRx67IndkM-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-11" value="Статус номеров&lt;br&gt;&amp;nbsp;(Room State)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="400" y="60" width="90" height="90" as="geometry" />
+          <mxGeometry x="400" y="78" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="440" as="sourcePoint" />
-            <mxPoint x="760" y="440" as="targetPoint" />
+            <mxPoint x="40" y="458" as="sourcePoint" />
+            <mxPoint x="760" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-16" value="Уборка и обслуживание (Housekeeping)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="30" y="440" width="240" height="30" as="geometry" />
+          <mxGeometry x="30" y="458" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-23" value="Интеграция с системой бронирования" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="700" y="200" width="80" height="77" as="geometry" />
+          <mxGeometry x="700" y="218" width="80" height="77" as="geometry" />
         </mxCell>
         <mxCell id="nMokIZjZC6wRx67IndkM-24" value="Интеграция с платежной системой." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="700" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="348" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N4dMJ0TOGq-llmKJ6ywY-2" value="Модель предметной области" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry y="8" width="240" height="30" as="geometry" />
+        <mxCell id="kttw4RwpWJta2NEm25TS-1" value="Модель предметной области. &lt;br style=&quot;font-size: 16px;&quot;&gt;Контекст сотрудника отеля" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="30" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" modified="2023-08-18T04:57:58.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="ncBHViJuWPy3Uu9SSwgV" version="21.6.6" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="996" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-1" value="Контекст управления пользователями" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="630" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-2" target="DRkb4xvNVB38JwlxhEwW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;Регистрация гостя&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#374151&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="692" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-3" target="DRkb4xvNVB38JwlxhEwW-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="710" />
+              <mxPoint x="450" y="710" />
+              <mxPoint x="450" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-3" target="DRkb4xvNVB38JwlxhEwW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-3" value="&lt;div style=&quot;text-align: left;&quot;&gt;Аутентификация и авторизация&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#374151&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="692" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-4" value="&lt;div style=&quot;text-align: left;&quot;&gt;Управление профилем гостя&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#374151&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-5" value="&lt;div style=&quot;text-align: left;&quot;&gt;Управление данными сотрудников отеля&lt;font face=&quot;Söhne, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, Helvetica Neue, Arial, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;#374151&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="755" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-6" value="Контекст бронирования номеров" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="70" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-8" target="DRkb4xvNVB38JwlxhEwW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-8" value="Просмотр доступных номеров и их характеристик" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-9" target="DRkb4xvNVB38JwlxhEwW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-9" value="Выбор типа номера или конкретного номера" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DRkb4xvNVB38JwlxhEwW-10" target="DRkb4xvNVB38JwlxhEwW-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-10" value="Оформление бронирования" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-11" value="Оплата бронирования" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="630" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-22" value="Контекст управления уборкой и обслуживанием" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="10" y="210" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-23" target="DRkb4xvNVB38JwlxhEwW-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-23" value="Задание приоритетов для уборки / обслуживания" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35" y="265" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-24" target="DRkb4xvNVB38JwlxhEwW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-24" value="Распределение задач уборки / обслуживания сотрудникам отеля" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="265" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DRkb4xvNVB38JwlxhEwW-25" target="DRkb4xvNVB38JwlxhEwW-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-25" value="Регистрация информации о выплнении задач, в том числе с помощью устройств на тележках" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="270" width="140" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="DRkb4xvNVB38JwlxhEwW-26" value="Отслеживание состояния уборки" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="265" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-14" value="Вариант 1. Функциональная декомпозиция по контексту сотрудника отеля" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="580" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-15" value="Контекст управления распределением номеров." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="20" y="428" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="viFNbDLytNFpetLnt_BZ-16" target="viFNbDLytNFpetLnt_BZ-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-16" value="Отображение статуса номеров (забронирован, доступен, готов к уборке и т.д.)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="480" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="viFNbDLytNFpetLnt_BZ-17" target="viFNbDLytNFpetLnt_BZ-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="460" />
+              <mxPoint x="120" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-17" value="Обновление статуса номеров при бронировании и освобождении" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="480" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="viFNbDLytNFpetLnt_BZ-21" target="viFNbDLytNFpetLnt_BZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viFNbDLytNFpetLnt_BZ-21" value="Управление бронированием и обслуживанием номеров" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="480" width="150" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
